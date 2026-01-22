@@ -24,7 +24,7 @@ export default function JoinCommunity() {
                     </p>
 
                     <a
-                        href="https://twitter.com"
+                        href="https://x.com/i/communities/2014290168967291031"
                         target="_blank"
                         rel="noreferrer"
                         className="inline-block px-12 py-4 bg-accent-cyan text-black font-black text-xl rounded-2xl hover:scale-105 transition-all duration-300"

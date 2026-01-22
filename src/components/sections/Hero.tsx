@@ -32,10 +32,10 @@ export default function Hero() {
 
                     <div className="flex flex-wrap gap-6 pt-4">
                         <button className="px-10 py-4 bg-accent-cyan text-black font-black text-xl rounded-none hover:translate-y-[-4px] hover:translate-x-[-4px] transition-transform shadow-[8px_8px_0px_white] hover:shadow-[12px_12px_0px_white]">
-                            Join Community
+                            <a href="https://x.com/i/communities/2014290168967291031" target="_blank" rel="noopener noreferrer">Join Community</a>
                         </button>
                         <button className="px-10 py-4 border-2 border-white text-white font-bold text-xl rounded-none hover:bg-white hover:text-black transition-colors">
-                            Pumpfun
+                            <a href="#" target="_blank" rel="noopener noreferrer">Pumpfun</a>
                         </button>
                     </div>
                 </div>
