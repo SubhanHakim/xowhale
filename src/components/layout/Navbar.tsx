@@ -7,7 +7,7 @@ export default function Navbar() {
                 {/* LOGO - Standard Left Alignment */}
                 <a href="#" className="flex items-center gap-2 group">
                     <div className="w-8 h-8 rounded-full bg-accent-cyan flex items-center justify-center text-black font-bold">
-                        <img src="logo2.png" alt="Logo" className="w-full h-full object-cover" />
+                        <img src="logo.png" alt="Logo" className="w-full h-full object-cover" />
                     </div>
                     <span className="text-xl font-bold font-display tracking-wider text-white">
                         XO<span className="text-accent-cyan">WHALE</span>
