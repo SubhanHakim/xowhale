@@ -35,7 +35,7 @@ export default function Hero() {
                             <a href="https://x.com/i/communities/2014290168967291031" target="_blank" rel="noopener noreferrer">Join Community</a>
                         </button>
                         <button className="px-10 py-4 border-2 border-white text-white font-bold text-xl rounded-none hover:bg-white hover:text-black transition-colors">
-                            <a href="#" target="_blank" rel="noopener noreferrer">Pumpfun</a>
+                            <a href="https://pump.fun/coin/2FHFxDAv8ZftVYrDEncz42ACdRavDs46tVSoLTZopump" target="_blank" rel="noopener noreferrer">Pumpfun</a>
                         </button>
                     </div>
                 </div>
