@@ -52,7 +52,7 @@ export default function Hero() {
                         DEV IS BASED
                     </div>
                     <div className="absolute bottom-10 -right-4 bg-accent-lime text-black font-black text-lg px-4 py-2 -rotate-6 shadow-xl z-20 animate-bounce">
-                        1000X SOON
+                        CHILL & HOLD
                     </div>
 
                     {/* Main Image - Massive & 3D Tilt */}
